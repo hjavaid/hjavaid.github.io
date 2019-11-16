@@ -1,2 +1,3 @@
 name: Haris Javaid
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
